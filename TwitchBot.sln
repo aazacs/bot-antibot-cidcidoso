@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchBot.Application", "TwitchBot.Application\TwitchBot.Application.csproj", "{5C015694-9558-44D6-B5CD-AE827995943D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchBot.ConsoleApp", "TwitchBot.Console\TwitchBot.ConsoleApp.csproj", "{AA8C02F4-809D-413C-A0E1-0152F262AE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchBot.Services", "TwitchBot.Services\TwitchBot.Services.csproj", "{15A0A8CE-6964-4625-94A6-75F80FEB9368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|x64.Build.0 = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Debug|x86.Build.0 = Debug|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|x64.ActiveCfg = Release|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|x64.Build.0 = Release|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|x86.ActiveCfg = Release|Any CPU
+		{5C015694-9558-44D6-B5CD-AE827995943D}.Release|x86.Build.0 = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|x64.Build.0 = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Debug|x86.Build.0 = Debug|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|x64.ActiveCfg = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|x64.Build.0 = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA8C02F4-809D-413C-A0E1-0152F262AE4A}.Release|x86.Build.0 = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|x64.Build.0 = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Debug|x86.Build.0 = Debug|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|x64.ActiveCfg = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|x64.Build.0 = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|x86.ActiveCfg = Release|Any CPU
+		{15A0A8CE-6964-4625-94A6-75F80FEB9368}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
